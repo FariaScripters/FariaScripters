@@ -1,17 +1,4 @@
-# 👩‍💻 Faria Sultana | DevOps Innovator
-
 ## 🌐 Project Leadership: Public Goods Crypto Sender
-
-![Faria Scripters Logo](https://raw.githubusercontent.com/FariaScripters/assets/main/faria-scripters-logo.png)
-
-### 🚀 Organizational Affiliation
-- **Organization**: [Faria Scripters](https://github.com/FariaScripters)
-- **Role**: DevOps Project Lead
-- **Specialization**: Public Goods Crypto Infrastructure
-
-## 🔬 Project Overview: USDT Sender
-
-### Key Visuals
 
 | AI Presentation | Project Snapshot | Tether Icon |
 |----------------|-----------------|-------------|
