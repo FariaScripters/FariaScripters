@@ -1,15 +1,47 @@
-## FariaScripters
-<img src="https://avatars.githubusercontent.com/u/175857493?v=4" width="150" />
 
-| Name | Bio | Blog | Location | Company |
-| -- | -- | -- | -- | -- |
-| Faria Scripters | Feel like simple is better. I do like color schemes such as black, gold, silver, white.. | [https://fariaandco.com/](https://https://fariaandco.com/) |  514, Vardhaman Chambers, Cawasji Patel Street,Fort, Mumbai 400001, | - |
+# 👋 Hi, I'm Faria Sultana
 
-## Followers <kbd>33</kbd>
+🌍 Founder of **Faria Scripters** | 🚀 DevOps & Blockchain Innovator
 
-<table width="100%">
-  <tr width='100%'><td width='10%' align='center'><a href='https://github.com/matiasinsaurralde'><img src='https://avatars.githubusercontent.com/u/20110?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/linces'><img src='https://avatars.githubusercontent.com/u/45243?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/fivetop'><img src='https://avatars.githubusercontent.com/u/50413?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/palonza'><img src='https://avatars.githubusercontent.com/u/192836?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/victorfeight'><img src='https://avatars.githubusercontent.com/u/199408?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/wenceslau'><img src='https://avatars.githubusercontent.com/u/286967?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/mrs83'><img src='https://avatars.githubusercontent.com/u/349166?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/marcbperez'><img src='https://avatars.githubusercontent.com/u/482530?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/six519'><img src='https://avatars.githubusercontent.com/u/483547?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/mortonfox'><img src='https://avatars.githubusercontent.com/u/495892?v=4' /></a></td></tr><tr width='100%'><td width='10%' align='center'><a href='https://github.com/gustavoneves'><img src='https://avatars.githubusercontent.com/u/497773?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/mrothauer'><img src='https://avatars.githubusercontent.com/u/527787?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/peterruler'><img src='https://avatars.githubusercontent.com/u/559492?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/andreterceiro'><img src='https://avatars.githubusercontent.com/u/722762?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/leosales'><img src='https://avatars.githubusercontent.com/u/852513?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/R-K-H'><img src='https://avatars.githubusercontent.com/u/1007667?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/IDouble'><img src='https://avatars.githubusercontent.com/u/18186995?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/Fadhaa'><img src='https://avatars.githubusercontent.com/u/18240431?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/BEPb'><img src='https://avatars.githubusercontent.com/u/57312267?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/oluiscabral'><img src='https://avatars.githubusercontent.com/u/58452540?v=4' /></a></td></tr><tr width='100%'><td width='10%' align='center'><a href='https://github.com/biztex'><img src='https://avatars.githubusercontent.com/u/86946125?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/Cre4T3Tiv3'><img src='https://avatars.githubusercontent.com/u/90336421?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/OnyedikaBenjamin'><img src='https://avatars.githubusercontent.com/u/107368386?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/motanelson'><img src='https://avatars.githubusercontent.com/u/118323821?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/MariyamSiddiqui'><img src='https://avatars.githubusercontent.com/u/153370326?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/KaloudasDev'><img src='https://avatars.githubusercontent.com/u/157753309?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/0joseDark'><img src='https://avatars.githubusercontent.com/u/162716366?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/sanadzhioua'><img src='https://avatars.githubusercontent.com/u/165974914?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/Rekt-Developer'><img src='https://avatars.githubusercontent.com/u/186061827?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/SuperCoder4562'><img src='https://avatars.githubusercontent.com/u/203184174?v=4' /></a></td></tr><tr width='100%'><td width='10%' align='center'><a href='https://github.com/likhonsheikhofficial'><img src='https://avatars.githubusercontent.com/u/203375680?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/buraksocial'><img src='https://avatars.githubusercontent.com/u/215418076?v=4' /></a></td><td width='10%' align='center'><a href='https://github.com/miniarch'><img src='https://avatars.githubusercontent.com/u/220906511?v=4' /></a></td>
-</table>
+---
 
-## LICENSE
-Copyright (c) 2023-present [FariaScripters](https://github.com/FariaScripters)
+![DevOps GIF](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+---
+
+## 🎥 Demo
+<video src="video.mp4" controls width="600"></video>
+
+---
+
+## 🚀 Features
+- Multi-network testing (TRC20, ERC20…)
+- Continuous updates
+- 24/7 support
+- Developer resources
+
+---
+
+![Blockchain GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
+---
+
+## 🌍 Access
+- [Website](https://flashusdtsender.xyz/)
+- [Portal](https://access.flashusdtsender.xyz/access)
+
+---
+
+## 🤝 Contributors
+- [@RecentCoder](https://github.com/RecentCoder)
+- [@PyCommander](https://github.com/PyCommander)
+
+---
+
+![Community GIF](https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif)
+
+---
+
+## 📞 Connect
+📧 faria.sultana@fariascripters.org
+🔗 [LinkedIn](https://www.linkedin.com/in/faria-sultana) | 🐦 [Twitter](https://twitter.com/FariaSultanaDev)
